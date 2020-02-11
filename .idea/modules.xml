@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ServerRedirect.iml" filepath="$PROJECT_DIR$/.idea/ServerRedirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServerRedirect.api.iml" filepath="$PROJECT_DIR$/.idea/modules/ServerRedirect.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServerRedirect.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ServerRedirect.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ServerRedirect.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ServerRedirect.test.iml" />
+    </modules>
+  </component>
+</project>
